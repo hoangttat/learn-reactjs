@@ -1,0 +1,16 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
+AlblumFeature.propTypes = {
+  
+};
+
+function AlblumFeature(props) {
+  return (
+    <div>
+      
+    </div>
+  );
+}
+
+export default AlblumFeature;

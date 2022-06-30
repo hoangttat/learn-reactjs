@@ -1,0 +1,10 @@
+.album{
+  &__thumbnail{
+    & > img{
+      w
+    }
+  }
+  &__name{
+    font-weight: bold;
+  }
+}

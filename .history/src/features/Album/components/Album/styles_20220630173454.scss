@@ -1,0 +1,11 @@
+.album{
+  &__thumbnail{
+    & > img{
+      width: 190px;
+      bo
+    }
+  }
+  &__name{
+    font-weight: bold;
+  }
+}
